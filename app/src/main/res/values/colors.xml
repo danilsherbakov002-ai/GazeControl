@@ -1,0 +1,9 @@
+<resources>
+    <color name="background">#0B0F14</color>
+    <color name="accent">#00E5FF</color>
+    <color name="accent_dim">#0097A7</color>
+    <color name="text_primary">#E6F7FF</color>
+    <color name="dot_idle">#33FFFFFF</color>
+    <color name="dot_active">#00E676</color>
+    <color name="cursor_color">#FF3D7A</color>
+</resources>

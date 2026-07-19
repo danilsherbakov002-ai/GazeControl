@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GazeControl</string>
+    <string name="btn_calibrate">Калибровка</string>
+    <string name="btn_start">Запустить управление взглядом</string>
+    <string name="btn_stop">Остановить</string>
+    <string name="grant_overlay">Разрешить окно поверх экрана</string>
+    <string name="grant_accessibility">Включить службу специальных возможностей</string>
+    <string name="dwell_label">Время фиксации клика (мс)</string>
+    <string name="calibration_instruction">Смотри на точку и не отводи взгляд, пока точка не станет зелёной</string>
+</resources>
